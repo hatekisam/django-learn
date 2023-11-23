@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/django-rest.iml" filepath="$PROJECT_DIR$/.idea/django-rest.iml" />
+>>>>>>> 19ebe83 (Created the basic py client)
     </modules>
   </component>
 </project>
